@@ -56,7 +56,7 @@ class LogController extends Controller
 		));
 	}
         
-        public function actionViewlag($id)
+        public function actionViewlag($document_table, $id)
 	{
             
            /* $data = log::model()->getLogs($id, 'documents_outbound');
@@ -67,7 +67,7 @@ class LogController extends Controller
                  'model'=>$this)
                 ); */
             $dataProvider=new CActiveDataProvider('Log');
-		$this->render('index',array(
+		$this->render('viewlag',array(
 			'dataProvider'=>$dataProvider,
 		));
         }
