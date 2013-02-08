@@ -66,7 +66,14 @@ class LogController extends Controller
                 'dataProvider'=>$dataProvider,
                  'model'=>$this)
                 ); */
-            $dataProvider=new CActiveDataProvider('Log');
+            
+            $criteria=new CDbCriteria(array(                    
+                                'condition'=>'document_table = "documents_outbound" AND document_id='.$id,
+                        ));
+            $dataProvider=new CActiveDataProvider('Log', array(
+            'criteria'=>$criteria,
+                ));
+            
 		$this->render('index',array(
 			'dataProvider'=>$dataProvider,
 		));
