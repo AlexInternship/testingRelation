@@ -848,3 +848,1605 @@ Stack trace:
 REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/view&id=1
 HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
 ---
+2013/02/08 10:04:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "log".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('log')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log
+---
+2013/02/08 10:05:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "log".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('log')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 10:06:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "log".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('log')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 10:06:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "log".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('log')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 10:06:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "log".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('log')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 10:06:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "log".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('log')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 10:06:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "log".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('log')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 12:30:29 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\view.php(15): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('view', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(63): CController->render('view', Array)
+#10 [internal function]: DocumentsOutboundController->actionView('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('view')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/view&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 12:31:10 [error] [php] include(documents_outbound.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory (C:\xampp\htdocs\framework\YiiBase.php:421)
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(386): spl_autoload_call()
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(215): model()
+#2 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree()
+#3 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree()
+#4 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct()
+#5 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): Log->query()
+#6 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\view.php(15): Log->findAll()
+#7 C:\xampp\htdocs\framework\web\CBaseController.php(126): require()
+#8 C:\xampp\htdocs\framework\web\CBaseController.php(95): DocumentsOutboundController->renderInternal()
+#9 C:\xampp\htdocs\framework\web\CController.php(869): DocumentsOutboundController->renderFile()
+#10 C:\xampp\htdocs\framework\web\CController.php(782): DocumentsOutboundController->renderPartial()
+#11 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(63): DocumentsOutboundController->render()
+#12 unknown(0): DocumentsOutboundController->actionView()
+#13 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs()
+#14 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#15 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams()
+#16 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): DocumentsOutboundController->runAction()
+#17 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#18 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#19 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): DocumentsOutboundController->filterAccessControl()
+#20 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#21 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#22 C:\xampp\htdocs\framework\web\CController.php(265): DocumentsOutboundController->runActionWithFilters()
+#23 C:\xampp\htdocs\framework\web\CWebApplication.php(282): DocumentsOutboundController->run()
+#24 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#25 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#26 C:\xampp\htdocs\testingRelation\index.php(13): CWebApplication->run()
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/view&id=1
+in C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\view.php (15)
+in C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php (63)
+in C:\xampp\htdocs\testingRelation\index.php (13)
+2013/02/08 12:46:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "log".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('log')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 12:48:58 [error] [exception.CException] exception 'CException' with message 'Log and its behaviors do not have a method or closure named "getLogs".' in C:\xampp\htdocs\framework\base\CComponent.php:265
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(225): CComponent->__call('getLogs', Array)
+#1 [internal function]: CActiveRecord->__call('getLogs', Array)
+#2 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(184): Log->getLogs('2', 'documents_outbo...')
+#3 [internal function]: DocumentsOutboundController->actionLog('2')
+#4 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#5 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#6 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#7 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#8 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#10 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#11 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#12 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#15 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#16 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=2
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 12:48:59 [error] [exception.CException] exception 'CException' with message 'Log and its behaviors do not have a method or closure named "getLogs".' in C:\xampp\htdocs\framework\base\CComponent.php:265
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(225): CComponent->__call('getLogs', Array)
+#1 [internal function]: CActiveRecord->__call('getLogs', Array)
+#2 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(184): Log->getLogs('2', 'documents_outbo...')
+#3 [internal function]: DocumentsOutboundController->actionLog('2')
+#4 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#5 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#6 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#7 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#8 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#10 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#11 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#12 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#15 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#16 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=2
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 12:48:59 [error] [exception.CException] exception 'CException' with message 'Log and its behaviors do not have a method or closure named "getLogs".' in C:\xampp\htdocs\framework\base\CComponent.php:265
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(225): CComponent->__call('getLogs', Array)
+#1 [internal function]: CActiveRecord->__call('getLogs', Array)
+#2 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(184): Log->getLogs('2', 'documents_outbo...')
+#3 [internal function]: DocumentsOutboundController->actionLog('2')
+#4 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#5 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#6 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#7 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#8 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#10 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#11 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#12 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#15 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#16 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=2
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 12:49:17 [error] [php] include(LogController.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory (C:\xampp\htdocs\framework\YiiBase.php:421)
+Stack trace:
+#0 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(182): spl_autoload_call()
+#1 unknown(0): DocumentsOutboundController->actionLog()
+#2 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs()
+#3 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#4 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): DocumentsOutboundController->runAction()
+#6 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): DocumentsOutboundController->filterAccessControl()
+#9 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\framework\web\CController.php(265): DocumentsOutboundController->runActionWithFilters()
+#12 C:\xampp\htdocs\framework\web\CWebApplication.php(282): DocumentsOutboundController->run()
+#13 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\testingRelation\index.php(13): CWebApplication->run()
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=2
+in C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php (182)
+in C:\xampp\htdocs\testingRelation\index.php (13)
+2013/02/08 12:49:18 [error] [php] include(LogController.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory (C:\xampp\htdocs\framework\YiiBase.php:421)
+Stack trace:
+#0 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(182): spl_autoload_call()
+#1 unknown(0): DocumentsOutboundController->actionLog()
+#2 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs()
+#3 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#4 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): DocumentsOutboundController->runAction()
+#6 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): DocumentsOutboundController->filterAccessControl()
+#9 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\framework\web\CController.php(265): DocumentsOutboundController->runActionWithFilters()
+#12 C:\xampp\htdocs\framework\web\CWebApplication.php(282): DocumentsOutboundController->run()
+#13 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\testingRelation\index.php(13): CWebApplication->run()
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=2
+in C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php (182)
+in C:\xampp\htdocs\testingRelation\index.php (13)
+2013/02/08 12:49:18 [error] [php] include(LogController.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory (C:\xampp\htdocs\framework\YiiBase.php:421)
+Stack trace:
+#0 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(182): spl_autoload_call()
+#1 unknown(0): DocumentsOutboundController->actionLog()
+#2 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs()
+#3 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#4 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): DocumentsOutboundController->runAction()
+#6 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): DocumentsOutboundController->filterAccessControl()
+#9 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\framework\web\CController.php(265): DocumentsOutboundController->runActionWithFilters()
+#12 C:\xampp\htdocs\framework\web\CWebApplication.php(282): DocumentsOutboundController->run()
+#13 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\testingRelation\index.php(13): CWebApplication->run()
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=2
+in C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php (182)
+in C:\xampp\htdocs\testingRelation\index.php (13)
+2013/02/08 12:49:19 [error] [php] include(LogController.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory (C:\xampp\htdocs\framework\YiiBase.php:421)
+Stack trace:
+#0 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(182): spl_autoload_call()
+#1 unknown(0): DocumentsOutboundController->actionLog()
+#2 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs()
+#3 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#4 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): DocumentsOutboundController->runAction()
+#6 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): DocumentsOutboundController->filterAccessControl()
+#9 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\framework\web\CController.php(265): DocumentsOutboundController->runActionWithFilters()
+#12 C:\xampp\htdocs\framework\web\CWebApplication.php(282): DocumentsOutboundController->run()
+#13 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\testingRelation\index.php(13): CWebApplication->run()
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=2
+in C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php (182)
+in C:\xampp\htdocs\testingRelation\index.php (13)
+2013/02/08 13:04:12 [error] [php] include(LogController.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory (C:\xampp\htdocs\framework\YiiBase.php:421)
+Stack trace:
+#0 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(182): spl_autoload_call()
+#1 unknown(0): DocumentsOutboundController->actionLog()
+#2 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs()
+#3 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#4 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): DocumentsOutboundController->runAction()
+#6 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): DocumentsOutboundController->filterAccessControl()
+#9 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\framework\web\CController.php(265): DocumentsOutboundController->runActionWithFilters()
+#12 C:\xampp\htdocs\framework\web\CWebApplication.php(282): DocumentsOutboundController->run()
+#13 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\testingRelation\index.php(13): CWebApplication->run()
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+in C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php (182)
+in C:\xampp\htdocs\testingRelation\index.php (13)
+2013/02/08 13:06:22 [error] [exception.CException] exception 'CException' with message 'Log and its behaviors do not have a method or closure named "getLogs".' in C:\xampp\htdocs\framework\base\CComponent.php:265
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(225): CComponent->__call('getLogs', Array)
+#1 [internal function]: CActiveRecord->__call('getLogs', Array)
+#2 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(185): Log->getLogs('1', 'documents_outbo...')
+#3 [internal function]: DocumentsOutboundController->actionLog('1')
+#4 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#5 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#6 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#7 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#8 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#10 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#11 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#12 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#15 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#16 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:07:44 [error] [system.db.CDbCommand] CDbCommand::fetch() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'document_tabledocuments_outbound' at line 1. The SQL statement executed was: SELECT * FROM log WHERE document_id =1AND document_tabledocuments_outbound.
+in C:\xampp\htdocs\testingRelation\protected\models\Log.php (109)
+in C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php (185)
+in C:\xampp\htdocs\testingRelation\index.php (13)
+2013/02/08 13:07:44 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'document_tabledocuments_outbound' at line 1. The SQL statement executed was: SELECT * FROM log WHERE document_id =1AND document_tabledocuments_outbound' in C:\xampp\htdocs\framework\db\CDbCommand.php:541
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\CDbCommand.php(414): CDbCommand->queryInternal('fetch', Array, Array)
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(101): CDbCommand->queryRow()
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1499): CActiveFinder->findBySql('SELECT * FROM l...', Array)
+#3 C:\xampp\htdocs\testingRelation\protected\models\Log.php(109): CActiveRecord->findBySql('SELECT * FROM l...')
+#4 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(185): Log->getLogs('1', 'documents_outbo...')
+#5 [internal function]: DocumentsOutboundController->actionLog('1')
+#6 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#7 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#8 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#9 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#10 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#12 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#13 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#14 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#15 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#17 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#18 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#19 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#20 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:08:27 [error] [system.db.CDbCommand] CDbCommand::fetch() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'documents_outbound' at line 1. The SQL statement executed was: SELECT * FROM log WHERE document_id = 1 AND document_table documents_outbound.
+in C:\xampp\htdocs\testingRelation\protected\models\Log.php (109)
+in C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php (185)
+in C:\xampp\htdocs\testingRelation\index.php (13)
+2013/02/08 13:08:27 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'documents_outbound' at line 1. The SQL statement executed was: SELECT * FROM log WHERE document_id = 1 AND document_table documents_outbound' in C:\xampp\htdocs\framework\db\CDbCommand.php:541
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\CDbCommand.php(414): CDbCommand->queryInternal('fetch', Array, Array)
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(101): CDbCommand->queryRow()
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1499): CActiveFinder->findBySql('SELECT * FROM l...', Array)
+#3 C:\xampp\htdocs\testingRelation\protected\models\Log.php(109): CActiveRecord->findBySql('SELECT * FROM l...')
+#4 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(185): Log->getLogs('1', 'documents_outbo...')
+#5 [internal function]: DocumentsOutboundController->actionLog('1')
+#6 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#7 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#8 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#9 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#10 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#12 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#13 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#14 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#15 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#17 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#18 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#19 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#20 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:09:04 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(189): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:09:55 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbound" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1498): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\testingRelation\protected\models\Log.php(109): CActiveRecord->findBySql('SELECT * FROM l...')
+#4 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(185): Log->getLogs('1', 'documents_outbo...')
+#5 [internal function]: DocumentsOutboundController->actionLog('1')
+#6 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#7 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#8 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#9 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#10 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#12 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#13 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#14 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#15 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#17 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#18 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#19 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#20 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:11:21 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbound" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1498): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\testingRelation\protected\models\Log.php(109): CActiveRecord->findBySql('SELECT * FROM l...')
+#4 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(185): Log->getLogs('1', 'documents_outbo...')
+#5 [internal function]: DocumentsOutboundController->actionLog('1')
+#6 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#7 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#8 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#9 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#10 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#12 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#13 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#14 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#15 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#17 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#18 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#19 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#20 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:13:34 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbound" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1498): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(189): CActiveRecord->findBySql('SELECT * FROM l...')
+#4 [internal function]: DocumentsOutboundController->actionLog('1')
+#5 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#6 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#7 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#8 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#9 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#10 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#11 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#12 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#13 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#14 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#16 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#17 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#18 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#19 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:14:11 [error] [system.db.CDbCommand] CDbCommand::fetch() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'document_table like "documents_outbound"' at line 1. The SQL statement executed was: SELECT * FROM log WHERE document_id =1AND document_table like "documents_outbound".
+in C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php (189)
+in C:\xampp\htdocs\testingRelation\index.php (13)
+2013/02/08 13:14:11 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'document_table like "documents_outbound"' at line 1. The SQL statement executed was: SELECT * FROM log WHERE document_id =1AND document_table like "documents_outbound"' in C:\xampp\htdocs\framework\db\CDbCommand.php:541
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\CDbCommand.php(414): CDbCommand->queryInternal('fetch', Array, Array)
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(101): CDbCommand->queryRow()
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1499): CActiveFinder->findBySql('SELECT * FROM l...', Array)
+#3 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(189): CActiveRecord->findBySql('SELECT * FROM l...')
+#4 [internal function]: DocumentsOutboundController->actionLog('1')
+#5 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#6 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#7 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#8 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#9 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#10 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#11 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#12 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#13 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#14 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#16 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#17 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#18 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#19 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:14:46 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:14:48 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:14:49 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:14:49 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:14:49 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:14:49 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:15:07 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:15:07 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:15:07 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:15:07 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:15:08 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:15:08 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:15:08 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:15:08 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:15:08 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:15:45 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:15:45 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:15:45 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:15:46 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:15:46 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:15:47 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:15:47 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:15:47 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:15:48 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:15:48 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:15:48 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:16:08 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:16:08 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:16:08 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:16:09 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:16:09 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:16:09 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:16:09 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---
+2013/02/08 13:16:13 [error] [exception.CDbException] exception 'CDbException' with message 'Relation "documentOutbounds" is not defined in active record class "Log".' in C:\xampp\htdocs\framework\db\ar\CActiveFinder.php:211
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(281): CActiveFinder->buildJoinTree(Object(CJoinElement), 'documentOutboun...')
+#1 C:\xampp\htdocs\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree(Object(CJoinElement), Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1301): CActiveFinder->__construct(Object(Log), Array)
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#4 C:\xampp\htdocs\testingRelation\protected\views\documentsOutbound\log.php(12): CActiveRecord->findAll()
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\xampp\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\xampp\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\xampp\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('log', Array, true)
+#9 C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php(195): CController->render('log', Array)
+#10 [internal function]: DocumentsOutboundController->actionLog('1')
+#11 C:\xampp\htdocs\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(DocumentsOutboundController), Array)
+#12 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(DocumentsOutboundController), Object(ReflectionMethod), Array)
+#13 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('log')
+#22 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('documentsOutbou...')
+#23 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 C:\xampp\htdocs\testingRelation\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound/log&id=1
+HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
+---

@@ -1,6 +1,7 @@
 <?php
 /* @var $this DocumentsOutboundController */
 /* @var $model DocumentsOutbound */
+/* @var $log   Log*/
 
 $this->breadcrumbs=array(
 	'Documents Outbounds'=>array('index'),
@@ -11,10 +12,8 @@ $this->breadcrumbs=array(
 
         <?php
         
-        $document = DocumentsOutbound::model()->with('logs')->findAll();
-        foreach ($document as $log) {
-         echo serialize($log);
-        }       
+       $logs= $this->actionLog($model->id);
+       echo $logs->document_table;
         ?>
 
 

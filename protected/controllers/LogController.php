@@ -170,4 +170,11 @@ class LogController extends Controller
 			Yii::app()->end();
 		}
 	}
+        
+        public function getLogs($id, $type)
+        {
+            $model = Log::model()->with('documentOutbound')->findBySql('SELECT * FROM log WHERE document_id ='. $id.'AND document_table'.$type);
+     
+            return $model;
+        }
 }

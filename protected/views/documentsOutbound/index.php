@@ -7,6 +7,7 @@ $this->breadcrumbs=array(
 );
 ?>
 
+
 <h1>Documents Outbounds</h1>
 
 <?php $this->widget('zii.widgets.CListView', array(

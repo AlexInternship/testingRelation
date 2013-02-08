@@ -3,6 +3,7 @@
 class DocumentsOutboundController extends Controller
 {
 	/**
+         * @var $log logController
 	 * @var string the default layout for the views. Defaults to '//layouts/column2', meaning
 	 * using two-column layout. See 'protected/views/layouts/column2.php'.
 	 */
@@ -34,7 +35,7 @@ class DocumentsOutboundController extends Controller
 	{
 		return array(
 			array('allow',  // allow all users to perform 'index' and 'view' actions
-				'actions'=>array('index','view', 'logs'),
+				'actions'=>array('index','view', 'log'),
 				'users'=>array('*'),                               
 			),
 			array('allow', // allow authenticated user to perform 'create' and 'update' actions
@@ -176,4 +177,25 @@ class DocumentsOutboundController extends Controller
 			Yii::app()->end();
 		}
 	}
+        
+        public function actionLog($id){
+            /*$log =new LogController();
+
+            $logs = $log->getLogs($id,'documents_outbound');
+            $logs= log::model()->getLogs($id,'documents_outbound');
+            
+             * 
+             */
+            
+            $logs = Log::model()->with('documentsOutbound')->findBySql('SELECT * FROM log WHERE document_id ='. $id.' AND document_table like "documents_outbound"');
+
+            return $logs;
+            /*
+            $this->render('log',array(
+			'model'=>$logs,
+		));
+             * 
+             */
+            
+        }
 }

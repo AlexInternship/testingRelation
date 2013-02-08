@@ -59,6 +59,7 @@ class Log extends CActiveRecord
 		// NOTE: you may need to adjust the relation name and the related
 		// class name for the relations automatically generated below.
 		return array(
+                      'documentsOutbound'=>array(self::BELONGS_TO, 'documentsOutbound', 'id'),                        
 		);
 	}
 
@@ -103,4 +104,14 @@ class Log extends CActiveRecord
 			'criteria'=>$criteria,
 		));
 	}
+        /*
+        public function getLogs($id, $type)
+        {
+            $model = Log::model()->with('documentOutbound')->findBySql('SELECT * FROM log WHERE document_id = ' .$id. ' AND document_table LIKE "' .$type.'"');
+     
+            return $model;
+        }
+         * 
+         */
+        
 }
