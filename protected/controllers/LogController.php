@@ -28,7 +28,7 @@ class LogController extends Controller
 	{
 		return array(
 			array('allow',  // allow all users to perform 'index' and 'view' actions
-				'actions'=>array('index','view'),
+				'actions'=>array('index','view','viewlag'),
 				'users'=>array('*'),
 			),
 			array('allow', // allow authenticated user to perform 'create' and 'update' actions
@@ -55,6 +55,22 @@ class LogController extends Controller
 			'model'=>$this->loadModel($id),
 		));
 	}
+        
+        public function actionViewlag($id)
+	{
+            
+           /* $data = log::model()->getLogs($id, 'documents_outbound');
+            $dataProvider=new CActiveDataProvider($data);
+
+             $this->render('index',array(
+                'dataProvider'=>$dataProvider,
+                 'model'=>$this)
+                ); */
+            $dataProvider=new CActiveDataProvider('Log');
+		$this->render('index',array(
+			'dataProvider'=>$dataProvider,
+		));
+        }
 
 	/**
 	 * Creates a new model.
@@ -174,7 +190,6 @@ class LogController extends Controller
         public function getLogs($id, $type)
         {
             $model = Log::model()->with('documentOutbound')->findBySql('SELECT * FROM log WHERE document_id ='. $id.'AND document_table'.$type);
-     
             return $model;
         }
 }
