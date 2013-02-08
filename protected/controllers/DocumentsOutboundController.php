@@ -190,11 +190,5 @@ class DocumentsOutboundController extends Controller
             $logs = Log::model()->with('documentsOutbound')->findBySql('SELECT * FROM log WHERE document_id ='. $id.' AND document_table like "documents_outbound"');
 
             return $logs;
-            
-            $this->render('log',array(
-			'model'=>$logs,
-		));
-           
-            
         }
 }
