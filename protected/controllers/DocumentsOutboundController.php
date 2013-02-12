@@ -3,7 +3,6 @@
 class DocumentsOutboundController extends Controller
 {
 	/**
-         * @var $log logController
 	 * @var string the default layout for the views. Defaults to '//layouts/column2', meaning
 	 * using two-column layout. See 'protected/views/layouts/column2.php'.
 	 */
@@ -19,12 +18,6 @@ class DocumentsOutboundController extends Controller
 			'postOnly + delete', // we only allow deletion via POST request
 		);
 	}
-        
-        public function getLogs()
-        {
-            $logs = DocumentsOutbound::model();
-            return print_r($logs);
-        }
 
 	/**
 	 * Specifies the access control rules.
@@ -35,8 +28,8 @@ class DocumentsOutboundController extends Controller
 	{
 		return array(
 			array('allow',  // allow all users to perform 'index' and 'view' actions
-				'actions'=>array('index','view', 'log', 'viewlag'),
-				'users'=>array('*'),                               
+				'actions'=>array('index','view'),
+				'users'=>array('*'),
 			),
 			array('allow', // allow authenticated user to perform 'create' and 'update' actions
 				'actions'=>array('create','update'),
@@ -52,6 +45,29 @@ class DocumentsOutboundController extends Controller
 		);
 	}
 
+        
+        /**
+	 * Search for a specific id
+	 * @param integer $id the ID of the model to be searched for
+         */
+	public function actionSearch($id)
+	{
+               $criteria = new CDbCriteria();
+
+            if(isset($_GET['q']))
+            {
+              $q = $_GET['q'];
+              $criteria->compare('attribute1', $q, true, 'OR');
+              $criteria->compare('attribute2', $q, true, 'OR');
+            }
+
+            $dataProvider=new CActiveDataProvider("Model", array('criteria'=>$criteria));
+
+            $this->render('index',array(
+              'dataProvider'=>$dataProvider,
+            ));
+	}
+        
 	/**
 	 * Displays a particular model.
 	 * @param integer $id the ID of the model to be displayed
@@ -129,10 +145,13 @@ class DocumentsOutboundController extends Controller
 	 */
 	public function actionIndex()
 	{
-		$dataProvider=new CActiveDataProvider('DocumentsOutbound');
-		$this->render('index',array(
-			'dataProvider'=>$dataProvider,
-		));
+        	$model = new DocumentsOutbound($scenario='search');
+                $model->unsetAttributes();
+                $model->id = $_GET['q'];
+
+                //add the ->search() call: 
+                $this->render('index',array('dataProvider'=>$model->search()));
+
 	}
 
 	/**
@@ -177,18 +196,4 @@ class DocumentsOutboundController extends Controller
 			Yii::app()->end();
 		}
 	}
-        
-        public function actionLog($id){
-            /*$log =new LogController();
-
-            $logs = $log->getLogs($id,'documents_outbound');
-            $logs= log::model()->getLogs($id,'documents_outbound');
-            
-             * 
-             */
-            
-            $logs = Log::model()->with('documentsOutbound')->findBySql('SELECT * FROM log WHERE document_id ='. $id.' AND document_table like "documents_outbound"');
-
-            return $logs;
-        }
 }

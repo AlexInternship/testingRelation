@@ -35,7 +35,7 @@
         
         <?php echo CHtml::link(CHtml::encode('logs'), array('log/viewlag','document_table'=>'documents_inbound' , 'id'=>$data->id)); ?>
 	<br />
-       
+              
 
 	<?php /*
 	<b><?php echo CHtml::encode($data->getAttributeLabel('document_data')); ?>:</b>

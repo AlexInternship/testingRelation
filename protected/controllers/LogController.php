@@ -56,6 +56,20 @@ class LogController extends Controller
 		));
 	}
         
+        /**
+	 * Lists all models.
+	 */
+	public function actionIndex()
+	{
+        	$model = new Log($scenario='search');
+                $model->unsetAttributes();
+                $model->id = $_GET['q'];
+
+                //add the ->search() call: 
+                $this->render('index',array('dataProvider'=>$model->search()));
+
+	}
+        
         public function actionViewlag($document_table, $id)
 	{
             

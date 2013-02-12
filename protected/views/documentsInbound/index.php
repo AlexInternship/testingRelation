@@ -6,13 +6,20 @@ $this->breadcrumbs=array(
 	'Documents Inbounds',
 );
 
-$this->menu=array(
-	array('label'=>'Create DocumentsInbound', 'url'=>array('create')),
-	array('label'=>'Manage DocumentsInbound', 'url'=>array('admin')),
-);
+Yii::app()->clientScript->registerScript('search', "
+  $('input#q').keyup(function(){
+  $.fn.yiiListView.update('yw0', {
+  data: $(this).serialize()
+  });
+  return false;
+});
+");
 ?>
 
 <h1>Documents Inbounds</h1>
+
+Search: <input type="text" id="q" name="q" />
+
 
 <?php $this->widget('zii.widgets.CListView', array(
 	'dataProvider'=>$dataProvider,

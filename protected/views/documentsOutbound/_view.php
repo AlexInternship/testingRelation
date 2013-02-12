@@ -33,9 +33,9 @@
 	<?php echo CHtml::encode($data->document_type); ?>
 	<br />
         
-	<?php echo CHtml::link(CHtml::encode('logs'), array('log/viewlag','document_table'=>'documents_outbound' , 'id'=>$data->id)); ?>
+        <?php echo CHtml::link(CHtml::encode('logs'), array('log/viewlag','document_table'=>'documents_outbound' , 'id'=>$data->id)); ?>
 	<br />
-                 
+
 	<?php /*
 	<b><?php echo CHtml::encode($data->getAttributeLabel('process_type')); ?>:</b>
 	<?php echo CHtml::encode($data->process_type); ?>

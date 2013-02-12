@@ -1,21 +1,15 @@
 <?php
 /* @var $this DocumentsOutboundController */
 /* @var $model DocumentsOutbound */
-/* @var $log   Log*/
 
 $this->breadcrumbs=array(
 	'Documents Outbounds'=>array('index'),
 	$model->id,
 );
+
 ?>
+
 <h1>View DocumentsOutbound #<?php echo $model->id; ?></h1>
-
-        <?php
-        
-       $logs= $this->actionLog($model->id);
-       echo $logs->document_table;
-        ?>
-
 
 <?php $this->widget('zii.widgets.CDetailView', array(
 	'data'=>$model,

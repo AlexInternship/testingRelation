@@ -122,10 +122,13 @@ class ScannedDocumentsController extends Controller
 	 */
 	public function actionIndex()
 	{
-		$dataProvider=new CActiveDataProvider('ScannedDocuments');
-		$this->render('index',array(
-			'dataProvider'=>$dataProvider,
-		));
+		$model = new ScannedDocuments($scenario='search');
+                $model->unsetAttributes();
+                $model->id = $_GET['q'];
+
+                //add the ->search() call: 
+                $this->render('index',array('dataProvider'=>$model->search()));
+
 	}
 
 	/**

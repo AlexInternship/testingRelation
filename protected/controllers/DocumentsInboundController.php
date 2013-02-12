@@ -122,10 +122,13 @@ class DocumentsInboundController extends Controller
 	 */
 	public function actionIndex()
 	{
-		$dataProvider=new CActiveDataProvider('DocumentsInbound');
-		$this->render('index',array(
-			'dataProvider'=>$dataProvider,
-		));
+		$model = new DocumentsInbound($scenario='search');
+                $model->unsetAttributes();
+                $model->id = $_GET['q'];
+
+                //add the ->search() call: 
+                $this->render('index',array('dataProvider'=>$model->search()));
+
 	}
 
 	/**
