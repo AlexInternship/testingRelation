@@ -31,6 +31,8 @@
 			'items'=>array(
 				array('label'=>'log', 'url'=>array('/log/index')),
 				array('label'=>'documents out', 'url'=>array('/documentsOutbound')),
+                                array('label'=>'documents in', 'url'=>array('/documentsInbound')),
+				array('label'=>'scanned documents', 'url'=>array('/scannedDocuments')),
 				array('label'=>'Login', 'url'=>array('/site/login'), 'visible'=>Yii::app()->user->isGuest),
 				array('label'=>'Logout ('.Yii::app()->user->name.')', 'url'=>array('/site/logout'), 'visible'=>!Yii::app()->user->isGuest)
 			),

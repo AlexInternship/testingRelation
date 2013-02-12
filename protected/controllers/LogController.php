@@ -56,7 +56,7 @@ class LogController extends Controller
 		));
 	}
         
-        public function actionViewlag($id)
+        public function actionViewlag($document_table, $id)
 	{
             
            /* $data = log::model()->getLogs($id, 'documents_outbound');
@@ -68,7 +68,7 @@ class LogController extends Controller
                 ); */
             
             $criteria=new CDbCriteria(array(                    
-                                'condition'=>'document_table = "documents_outbound" AND document_id='.$id,
+                                'condition'=>'document_table = "'.$document_table.'" AND document_id='.$id,
                         ));
             $dataProvider=new CActiveDataProvider('Log', array(
             'criteria'=>$criteria,
