@@ -5059,3 +5059,51 @@ Stack trace:
 REQUEST_URI=/testingRelation/index.php?r=documentsInbound
 HTTP_REFERER=http://localhost/testingRelation/index.php?r=documentsOutbound
 ---
+2013/02/12 15:48:33 [error] [php] Undefined index: q (C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsInboundController.php:127)
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): DocumentsInboundController->runAction()
+#1 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): DocumentsInboundController->filterAccessControl()
+#4 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\framework\web\CController.php(265): DocumentsInboundController->runActionWithFilters()
+#7 C:\xampp\htdocs\framework\web\CWebApplication.php(282): DocumentsInboundController->run()
+#8 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\testingRelation\index.php(13): CWebApplication->run()
+REQUEST_URI=/testingRelation/index.php?r=documentsInbound
+in C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsInboundController.php (127)
+in C:\xampp\htdocs\testingRelation\index.php (13)
+2013/02/12 15:48:36 [error] [php] Undefined index: q (C:\xampp\htdocs\testingRelation\protected\controllers\ScannedDocumentsController.php:127)
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): ScannedDocumentsController->runAction()
+#1 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): ScannedDocumentsController->filterAccessControl()
+#4 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\framework\web\CController.php(265): ScannedDocumentsController->runActionWithFilters()
+#7 C:\xampp\htdocs\framework\web\CWebApplication.php(282): ScannedDocumentsController->run()
+#8 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\testingRelation\index.php(13): CWebApplication->run()
+REQUEST_URI=/testingRelation/index.php?r=scannedDocuments
+in C:\xampp\htdocs\testingRelation\protected\controllers\ScannedDocumentsController.php (127)
+in C:\xampp\htdocs\testingRelation\index.php (13)
+2013/02/12 15:48:40 [error] [php] Undefined index: q (C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php:150)
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): DocumentsOutboundController->runAction()
+#1 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): DocumentsOutboundController->filterAccessControl()
+#4 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\framework\web\CController.php(265): DocumentsOutboundController->runActionWithFilters()
+#7 C:\xampp\htdocs\framework\web\CWebApplication.php(282): DocumentsOutboundController->run()
+#8 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\testingRelation\index.php(13): CWebApplication->run()
+REQUEST_URI=/testingRelation/index.php?r=documentsOutbound
+in C:\xampp\htdocs\testingRelation\protected\controllers\DocumentsOutboundController.php (150)
+in C:\xampp\htdocs\testingRelation\index.php (13)
