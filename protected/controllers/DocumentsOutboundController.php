@@ -145,12 +145,19 @@ class DocumentsOutboundController extends Controller
 	 */
 	public function actionIndex()
 	{
+            $dataProvider=new CActiveDataProvider('DocumentsOutbound');
+		$this->render('index',array(
+			'dataProvider'=>$dataProvider,
+		));
+            /*
         	$model = new DocumentsOutbound($scenario='search');
                 $model->unsetAttributes();
                 $model->id = $_GET['q'];
 
                 //add the ->search() call: 
                 $this->render('index',array('dataProvider'=>$model->search()));
+             * 
+             */
 
 	}
 
